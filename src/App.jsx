@@ -10,7 +10,7 @@ export default function App() {
       <Header title="Open Source Studio" subtitle="Week 13 · React Mini Dashboard" />
       <main className="dashboard">
         <section className="hero">
-          <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
+          <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13 - 22500703 Ji, Ye Joo</p>
           <h1>Build. Analyze. Deploy. Connect.</h1>
           <p>
             One small React project for GitHub collaboration, component analysis,
@@ -31,7 +31,7 @@ export default function App() {
         </div>
         <div className="mini-section">
           <strong>Learning path: GitHub → Install → Analyze → Deploy → Axios → API UI → Weather</strong>
-          <span>LAB results are not submitted. Apply the skills to your own team project.</span>
+          <span>LAB results are not submitted. Apply the skills to your own team project</span>
         </div>
       </main>
     </div>
